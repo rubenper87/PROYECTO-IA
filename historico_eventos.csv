@@ -1,0 +1,6 @@
+fecha,tipo_evento,presion,temperatura,caudal,causa,solucion
+2026-07-15,ALTA_PRESION,130,435,72,Tendencia ascendente de presión,Reducción de carga
+2026-07-18,BAJO_CAUDAL,128,438,68,Restricción en circuito,Comprobación de válvula
+2026-07-22,ALTA_PRESION,132,430,70,Descenso progresivo de caudal,Ajuste de operación
+2026-07-25,DISPARO_TURBINA,125,440,74,Protección de turbina activada,Revisión de condiciones de disparo
+2026-07-29,ALTA_PRESION,129,433,69,Evolución conjunta de variables,Reducción de carga
